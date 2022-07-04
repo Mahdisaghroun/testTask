@@ -1,0 +1,5 @@
+
+export const GET_USERS_REQUEST = 'GET_USERS_REQUEST';
+export const GET_USERS_SUCCESS='GET_USERS_SUCCESS'
+export const ERROR='ERROR'
+export const ADD_USER="ADD_USER"
